@@ -24,8 +24,4 @@ This project is a simple Machine Learning project on the **Iris dataset** using 
 - scikit-learn
 - kagglehub (for dataset download)
 
-## How to Run
-
-1. Clone the repository
-```bash
-git clone https://github.com/YourUsername/Iris-ML-LogisticRegression.git
+ 
